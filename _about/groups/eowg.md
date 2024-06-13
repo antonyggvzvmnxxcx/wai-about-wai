@@ -1,8 +1,6 @@
 ---
 title: Education and Outreach Working Group (EOWG)
 nav_title: '<span>EOWG: Education and Outreach <abbr title="Working Group">WG</abbr></span>'
-order: 5
-group: groups
 permalink: /about/groups/eowg/
 ref: /about/groups/eowg/
 lang: en
@@ -20,7 +18,6 @@ This page provides basic information about EOWG.<br>**For more detailed informat
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
-
 
 {::options toc_levels="2,3,4" /}
 
@@ -203,7 +200,7 @@ EOWG primarily conducts work through:
 
 ### Chair and Contacts
 
--   EOWG Co-Chairs: Brent Bakken, Sharron Rush, Kris Anne Kinney
+-   EOWG Co-Chairs: Brian Elton, Kris Anne Kinney
 -   W3C Team Contact: [Shawn Henry](http://www.w3.org/People/Shawn/)
     &lt; shawn @ w3.org &gt;
 

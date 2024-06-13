@@ -1,8 +1,6 @@
 ---
 title: WAI Interest Group (WAI IG)
 nav_title: 'WAI IG: WAI Interest Group'
-order: 6
-group: groups
 permalink: /about/groups/waiig/
 ref: /about/groups/waiig/
 lang: en
@@ -55,16 +53,13 @@ You can also see the [Announcements List Archives](http://lists.w3.org/Archives/
 searching for past messages and getting a feel for the list.
 
 -   E-mail messages should **contribute to a comfortable, constructive
-    exchange** of ideas to advance web accessibility. Before you write
-    an e-mail, think about how it will come across to the hundreds of
-    people around the world who are on the list.
-    -   **Be respectful.** Be positive. Be open to different
-        perspectives.
-    -   **Provide constructive information.** Focus on developing
-        solutions, rather than just complaining.
-    -   Avoid personal attacks, naming calling, and such.
-    -   Explain the issue clearly. Provide sufficient background
-        information.
+    exchange** of ideas to advance web accessibility. Before you send
+    an e-mail, think about how it will come across to the people around the world who are on the list and who can read your publicly-archived message.
+    -   **Be respectful.** Be positive. Be open to different perspectives.
+    -   **Provide constructive information.** Focus on developing potential solutions, rather than just complaining.
+    -   Focus on ideas, not participants. Avoid personal attacks, naming calling, and such.
+    -   Explain the issue clearly. Provide sufficient background information.
+    -   **See additional guidancce in W3C's Code of Ethics and Professional Conduct: [Positive Work Environment at W3C: Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/)**
 -   Make sure e-mails are related web accessibility and are appropriate
     for the WAI IG list.
     -   If you have questions about whether or not a message is
@@ -84,9 +79,7 @@ searching for past messages and getting a feel for the list.
     -   If you use a vacation auto-responder, exclude responses to mail
         with w3c-wai-ig@w3.org in any header.<br>
 -   **Send any questions about the WAI IG mailing list to
-    <shawn@w3.org>**, not to the whole list.
-    
-See additional guidancce in the **W3C Code of Ethics**: [Positive Work Environment at W3C: Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).    
+    <shawn@w3.org>**, not to the whole list. 
 
 ### Subscribing and Unsubscribing to the Discussion List
 
@@ -128,7 +121,7 @@ The [scope of the WAI IG](/WAI/IG/20200804#scope)
 includes:
 
 -   reviewing and discussing deliverables being developed by [WAI
-    Working Groups](https://www.w3.org/WAI/groups.html)
+    Working Groups](/about/groups/)
 -   providing input into specification reviews, research topics, and
     educational materials development
 -   exploring web accessibility issues and solutions
@@ -142,9 +135,8 @@ Sponsors](http://www.w3.org/WAI/Sponsor).
 
 ### Chair and Contacts
 
--   The WAI IG Chair is Katie Haritos-Shea
--   The W3C Staff Contacts are [Judy
-    Brewer](mailto:%3Cjbrewer@w3.org%3E) and [Shawn Lawton
+-   The WAI IG Chair is Ashley Abaragu (Knowbility)
+-   The W3C Staff Contact is [Shawn Lawton
     Henry](http://www.w3.org/People/Shawn/)
 
 ### Charter

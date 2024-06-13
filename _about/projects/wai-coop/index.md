@@ -31,62 +31,59 @@ This page provides information on the Web Accessibility Initiative - Communities
 {% include toc.html type="end" %}
 {:/}
 
-## Announcements
-{:#announcements}
-
--   **28 September:** [Open Meeting on EU Web Accessibility Directive (WAD)](https://www.edf-feph.org/events-slug/wai-coop-open-meeting2/)
--   **6 October:** Paper Deadline for [Online Research Symposium](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
--   **7 November:** Registration Deadline for [Online Research Symposium](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
--   **10 November:** [Online Research Symposium "Shape the Future"](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
--   **Sign-Up:** to receive [WAI-CooP Project Updates](https://www.w3.org/2002/09/wbs/1/WAI-CooP_newsletter/)
--   Held [First Online Open Meeting on 23 June 2021](https://www.edf-feph.org/events-slug/wai-coop-first-open-meeting/)
--   Held [ACT Rules Community Group Meeting on 19 March 2021](https://www.w3.org/community/act-r/act-rules-cg-online-workshop-on-19-march-2021/)
--   WAI-CooP Project started on 1 January 2021
-
 ## Project Results
 {:#results}
 
-Current project results include:
+**[List of Courses on Digital Accessibility](https://www.w3.org/WAI/courses/list/)**
+:  Includes developing a user interface with filtering functionality, a taxonomy to describe courses and certification on digital accessibility with mapping to the [WAI Curricula](https://www.w3.org/WAI/curricula/), and promoting and gathering list entries. In addition to the List of Courses, a [Course submission form](https://www.w3.org/WAI/courses/submission/) is available.
 
-**[List of Courses on Digital Accessibility](https://github.com/w3c/wai-course-list/)**
-:  Includes developing a user interface with filtering functionality, a taxonomy to describe courses and certification on digital accessibility with mapping to the [WAI Curricula](https://www.w3.org/WAI/curricula/), and promoting and gathering list entries. An [early prototype](https://wai-list-of-courses.netlify.app/list-of-courses/) is available. This work is being carried out in the [W3C Accessibility Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/about/groups/eowg/).
+**[List of Web Accessibility Evaluation Tools](https://www.w3.org/WAI/test-evaluate/tools/list/)**
+:  Includes updating the user interface with filtering functionality, reviewing tools features to capture, and promoting and gathering list entries. In addition to the List of Evaluation Tools, a [Tool submission form](https://www.w3.org/WAI/test-evaluate/tools/submit-a-tool/) is available.
+
+**[List of Policies and Practices Internationally](https://www.w3.org/WAI/policies/)**
+:  Extensive updates to existing policies and the addition of new information for 22 additional countries.
 
 **[Accessibility Conformance Testing (ACT) Rules](https://www.w3.org/WAI/standards-guidelines/act/rules/)**
-:  Includes promoting, tracking, and validating implementations of "Accessibility Conformance Testing (ACT) Rules" in automated testing tools and manual testing methodologies. This includes redesign of the user interface to better integrate implementation reports submitted by different vendors. This work is being carried out in the [ACT Task Force](https://www.w3.org/WAI/GL/task-forces/conformance-testing/) of the W3C Accessibility Guidelines Working Group (AGWG).
+:  Includes promoting, tracking, and validating implementations of "Accessibility Conformance Testing (ACT) Rules" in automated testing tools and manual testing methodologies. This includes completed [redesign of the user interface](https://www.w3.org/WAI/standards-guidelines/act/rules/about/) to better integrate implementation reports submitted by different vendors.
 
-## Project Deliverables
-{:#deliverables}
+**Analysis of Support and Gaps in Technologies**
+:  Carried out an extensive review of literature to identify relevant accessibility related gaps in digital technologies which helped identify topics that were explored further as part of the Research Symposia.
 
-Technical project deliverables include:
+**Research Symposia on Digital Accessibility**
+: Organised and ran three online research symposia based on topics identified in previous analysis:
+  * [Shape the Future: Research and Development Questions in Digital Accessibility](https://www.w3.org/WAI/about/projects/wai-coop/symposium1/)
+  * [Artificial Intelligence (AI) and Accessibility](https://www.w3.org/WAI/research/ai2023/)
+  * [Evaluating Accessibility: Meeting Key Challenges](https://www.w3.org/WAI/about/projects/wai-coop/symposium3/)
 
--   **Monitor Market Developments**
-    -   **Accessibility Training and Certification** — establish a W3C List of Web Accessibility Training and Certification with mappings to the [WAI Curricula](https://www.w3.org/WAI/curricula/)
-    -   **Web Accessibility Evaluation Tools** — revise and expand the [W3C List of Web Accessibility Evaluation Tools](https://www.w3.org/WAI/ER/tools/) with focus on large-scale monitoring
-    -   **Policies and Practices Internationally** — revise and expand the [W3C List of International Policies on Web Accessibility](https://www.w3.org/WAI/policies/) with focus on Europe
--   **Monitor Technology Developments**
-    -   **Support Harmonized Accessibility Testing** — monitor, promote, and document implementation of [W3C Accessibility Conformance Testing (ACT) Rules](https://www.w3.org/WAI/standards-guidelines/act/)
-    -   **Analyze Gaps in Digital Technologies** — analyze potential support and gaps for accessibility in evolving and emerging technologies
-    -   **Advancements in Research and Development** — hold open research symposia to explore research questions on accessibility implementation
--   **Promote and Exchange Best Practices**
-    -   **Hold Regular Open Meetings** — hold open meetings to promote the involvement of people with disabilities in implementation and monitoring efforts
-    -   **Provide Help Desk Support** — respond to questions from all stakeholders on implementing the EU Web Accessibility Directive (WAD)
-    -   **Frequently Asked Questions (FAQs)** — establish a curated collection of frequently asked questions on the EU Web Accessibility Directive (WAD)
-    -   **Revise Key WAI Resources** — revise WAI resources that are relevant to implementation of the EU Web Accessibility Directive (WAD)
+**Regular Open Meetings**
+: Organised and ran six open meetings to exchange best practices and discuss specific topics around implementing and monitoring accessibility.
+  * [WAI-CooP introductory meeting](https://www.edf-feph.org/events-slug/wai-coop-first-open-meeting/)
+  * [Implementation of the EU Web Accessibility Directive](https://www.edf-feph.org/events-slug/wai-coop-open-meeting2/)
+  * [Monitoring of the EU Web Accessibility Directive](https://www.edf-feph.org/events-slug/wai-coop-online-meeting/)
+  * [What can be done to improve supply of and access to digital accessibility expertise](https://www.edf-feph.org/events-slug/wai-coop-open-meeting-11-october-2022/)
+  * [Exploring the feedback mechanism and complaints procedure of the Web Accessibility Directive](https://www.edf-feph.org/events-slug/wai-coop-open-meeting-7-march-2023/)
+  * [Review of WAI CooP activities and the future of accessibility](https://www.edf-feph.org/events-slug/wai-coop-open-meeting-14-november-2023/)
 
-These deliverables are complemented by project management, dissemination, and engagement efforts.
+**[Web Accessibility Directive: Frequently Asked Questions](https://web-directive.eu/)**
+:  Provides responses to frequently asked questions (FAQ) on implementing the EU Web Accessibility Directive (WAD). Stakeholders can ask new questions from the "Contact our help desk" link.
 
-## How To Participate
+**[EM Report Tool](https://www.w3.org/WAI/eval/report-tool/)**
+:  Updated functionality, improved user interface, improved translation options and updates to include new WCAG 2.1 and 2.2 success criteria.
+EM Report Tool
+
+**[Easy Checks - A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/easy-checks/)**
+:  Updates to the resource to simplify the presentation of each check, reduce the reliance on third-party tools and improve the readability of the content. This aims to make it easier to be used as a learning resource for people new to accessibility and a set of tools to perform some basic accessibility checks.
+
+## Participation
 {:#participate}
 
-Most of the project work listed above is developed through or in coordination with:
+Most of the project work listed above was developed through or in coordination with:
 
--   [W3C Accessibility Education and Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/)
--   [W3C Accessibility Conformance Testing (ACT) Task Force](https://www.w3.org/wai/gl/task-forces/conformance-testing/)
--   [W3C Research Questions Task Force (RQTF)](https://www.w3.org/WAI/APA/task-forces/research-questions/)
+-   [Accessibility Education and Outreach Working Group (EOWG)](/about/groups/eowg/)
+-   [Accessibility Conformance Testing (ACT) Task Force](/about/groups/task-forces/conformance-testing/)
+-   [Research Questions Task Force (RQTF)](/about/groups/task-forces/research-questions/)
 
-We invite participation, comments, and contributions by anyone interested. This includes reviewing drafts of these resources and actively participating in the relevant groups to help develop these resources. All project results will be provided openly on royalty-free basis, and will be linked from this page.
-
-See also [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator).
+See also [Participating in WAI](http://www.w3.org/WAI/participation). If you have any questions, contact [Kevin White](https://www.w3.org/staff/#kevin).
 
 ## About the Project
 {:#about}
@@ -99,15 +96,13 @@ WAI-CooP, Communities of Practice, is a Coordination and Support Action project,
 
 WAI-CooP achieves this by building on the existing wealth of authoritative guidance available from the W3C Web Accessibility Initiative (WAI), to provide a one-stop shop for the broad spectrum of key stakeholders involved in the implementation of digital accessibility. This includes public bodies and private entities; organisations representing people with disabilities; product, service, and training providers; researchers; and policy makers.
 
-See [project deliverables](#deliverables) above and contact [Shadi Abou-Zahra](http://www.w3.org/People/shadi/) (Scientific Coordinator) for more information.
-
 ## Project Partners
 {:#partners}
 
 WAI-CooP project partners include:
 
 -   [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) – as part of W3C, France
--   [European Disability Forum (EDF) {% include_cached external.html %}](http://edf-feph.org/), Belgium
+-   [European Disability Forum (EDF) {% include_cached external.html %}](https://www.edf-feph.org/), Belgium
 -   [HAN University of Applied Sciences {% include_cached external.html %}](https://hanuniversity.com/en/), Netherlands
 -   [University of Lisbon, Faculty of Sciences Association for Research and Development {% include_cached external.html %}](http://www.fciencias-id.pt/), Portugal
--   [Deque Research {% include_cached external.html %}](https://www.deque.com/), Netherlands
+-   [Deque Systems Europe {% include_cached external.html %}](https://www.deque.com/), Netherlands
